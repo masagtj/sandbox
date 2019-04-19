@@ -2,4 +2,4 @@
 
 taiga integration
 
-add comment
+close comment
